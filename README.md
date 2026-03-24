@@ -1,9 +1,43 @@
-- 👋 Hi, I’m @aditi270800
-- 👀 I’m interested in ... Frontend (React JS, HTML, CSS, JS, React Native)
-- 🌱 I’m currently learning ... React Native
-- 📫 How to reach me ... adirak2708@gmail.com
+# Hi, I'm Aditi 👋
 
-<!---
-aditi270800/aditi270800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend Engineer with 3+ years of experience building scalable React applications.
+
+I focus on:
+- ⚡ Performance optimization (memoization, virtualization, code splitting)
+- 🏗 Scalable frontend architecture (Redux, modular components)
+- 📊 Data-heavy UI systems
+
+---
+
+## 🚀 What I’m Working On
+- High-performance Retail Planning Dashboard (10k+ rows handling)
+- Exploring frontend performance patterns & optimization techniques
+
+---
+
+## 🛠 Tech Stack
+React • TypeScript • Redux • JavaScript • HTML • CSS  
+Jest • React Testing Library • AG-Grid  
+
+---
+
+## 📌 Featured Projects
+👉 [Retail Planning Dashboard](LINK)  
+High-performance data dashboard with virtualization & optimized rendering
+
+👉 [Performance Playground](LINK)  
+Experiments with memoization, re-renders, and optimization techniques
+
+---
+
+## 📈 What I Care About
+- Writing clean, maintainable code
+- Improving performance at scale
+- Building fast and reliable user experiences
+
+---
+
+## 📫 Reach Me
+LinkedIn: [LINK](https://www.linkedin.com/in/aditi-saxena-a781a51a0/)  
+Portfolio: [LINK](https://aditisaxenaportfolio.netlify.app/)
+Email: adirak2708@gmail.com
