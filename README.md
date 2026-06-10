@@ -25,9 +25,6 @@ Jest • React Testing Library • AG-Grid
 👉 [Retail Planning Dashboard](LINK)  
 High-performance data dashboard with virtualization & optimized rendering
 
-👉 [Performance Playground](LINK)  
-Experiments with memoization, re-renders, and optimization techniques
-
 ---
 
 ## 📈 What I Care About
