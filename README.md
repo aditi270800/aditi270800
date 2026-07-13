@@ -44,7 +44,7 @@ Git • GitHub • Postman • Swagger • VS Code • Jira
 ---
 
 ## 📌 Featured Projects
-👉 [Retail Planning Dashboard]([LINK]https://react-retail-planning-dashboard-zf8.vercel.app/)  
+### 👉 [Retail Planning Dashboard] [LINK](https://react-retail-planning-dashboard-zf8.vercel.app/  
 High-performance data dashboard with virtualization & optimized rendering
 
 ### 🌐 Portfolio Website
