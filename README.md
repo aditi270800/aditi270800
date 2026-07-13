@@ -44,10 +44,10 @@ Git • GitHub • Postman • Swagger • VS Code • Jira
 ---
 
 ## 📌 Featured Projects
-### 👉 [Retail Planning Dashboard] [LINK](https://react-retail-planning-dashboard-zf8.vercel.app/  
+### 👉 [Retail Planning Dashboard] [LINK](https://react-retail-planning-dashboard-zf8.vercel.app/)
 High-performance data dashboard with virtualization & optimized rendering
 
-### 🌐 Portfolio Website
+### 🌐 Portfolio Website [LINK](https://aditi-saxena-portfolio.vercel.app/)
 Modern responsive portfolio built with React and Tailwind CSS showcasing projects and engineering experience.
 
 ---
@@ -74,5 +74,5 @@ Modern responsive portfolio built with React and Tailwind CSS showcasing project
 
 ## 📫 Reach Me
 LinkedIn: [LINK](https://www.linkedin.com/in/aditi-saxena-a781a51a0/)  
-Portfolio: [LINK](https://aditisaxenaportfolio.netlify.app/)
+Portfolio: [LINK](https://aditi-saxena-portfolio.vercel.app/)
 Email: adirak2708@gmail.com
