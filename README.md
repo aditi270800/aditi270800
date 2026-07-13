@@ -1,36 +1,74 @@
 # Hi, I'm Aditi 👋
+### Senior Software Engineer | Frontend Engineer | React • TypeScript • Node.js
 
-Frontend Engineer with 3+ years of experience building scalable React applications.
+Software engineer with 4+ years of experience building scalable, production-ready web applications. 
+My expertise lies in React and TypeScript, with a strong focus on clean architecture, performance, and building products that deliver a great user experience.
 
-I focus on:
-- ⚡ Performance optimization (memoization, virtualization, code splitting)
-- 🏗 Scalable frontend architecture (Redux, modular components)
-- 📊 Data-heavy UI systems
+Beyond frontend development, I enjoy contributing across the stack by working with Node.js, REST APIs, and improving developer experience through testing, documentation, and engineering best practices.
 
 ---
 
-## 🚀 What I’m Working On
-- High-performance Retail Planning Dashboard (10k+ rows handling)
-- Exploring frontend performance patterns & optimization techniques
+## 🚀 What I'm Currently Working On
+- Building scalable React applications
+- Learning backend development with Node.js & Express
+- Exploring system design and scalable software architecture
+- Improving performance and developer experience
+
+---
+
+## 💼 Professional Experience
+- Led frontend development across multiple production applications
+- Delivered end-to-end features in collaboration with Product, Design, QA, and Backend teams
+- Built reusable component libraries and scalable UI architecture
+- Improved application performance and testing strategy
+- Contributed to Node.js APIs, Swagger documentation, and backend improvements
 
 ---
 
 ## 🛠 Tech Stack
-React • TypeScript • Redux • JavaScript • HTML • CSS  
-Jest • React Testing Library • AG-Grid  
+### Languages
+JavaScript • TypeScript
+
+### Frontend
+React • Redux Toolkit • Zustand • HTML • CSS • Tailwind CSS
+
+### Backend
+Node.js • Express.js • REST APIs
+
+### Testing
+Jest • React Testing Library
+
+### Tools
+Git • GitHub • Postman • Swagger • VS Code • Jira
 
 ---
 
 ## 📌 Featured Projects
-👉 [Retail Planning Dashboard](LINK)  
+👉 [Retail Planning Dashboard]([LINK]https://react-retail-planning-dashboard-zf8.vercel.app/)  
 High-performance data dashboard with virtualization & optimized rendering
+
+### 🌐 Portfolio Website
+Modern responsive portfolio built with React and Tailwind CSS showcasing projects and engineering experience.
 
 ---
 
-## 📈 What I Care About
-- Writing clean, maintainable code
-- Improving performance at scale
-- Building fast and reliable user experiences
+## 🌱 Currently Learning
+- Node.js & Express
+- System Design
+- Design Patterns
+- Advanced TypeScript
+- Cloud Fundamentals
+
+---
+
+## 💡 Engineering Interests
+- Scalable Frontend Architecture
+- Performance Optimization
+- Clean Code
+- Product Engineering
+- API Design
+- Developer Experience
+- System Design
 
 ---
 
